@@ -1,0 +1,19 @@
+Algoritmo testa_operadores_aritméticos
+
+variáveis
+    n1, n2: inteiro;
+    aux_real: real;
+    aux_inteiro: inteiro;
+
+Início
+    leia(n1);
+    leia(n2);
+    aux_inteiro <- n1 + n2;
+    escreva(aux_inteiro); //imprime a soma
+    aux_inteiro <- n1 - n2;
+    escreva(aux_inteiro); //imprime a subtração
+    aux_inteiro <- n1 * n2;
+    escreva(aux_inteiro); //imprime a multiplicação
+    aux_real <- n1/n2;
+    escreva(aux_real); //imprime a divisão
+Fim
