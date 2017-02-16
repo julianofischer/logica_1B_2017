@@ -1,0 +1,26 @@
+//sem utilizar constantes
+Algoritmo area_da_circunferencia
+Variáveis
+    raio: inteiro;
+    area: real;
+Início
+    escreva("Digite o valor do raio");
+    leia(raio);
+    area ← 3,14 * (raio↑ 2);
+    escreva("O valor calculado para área é ", area);
+Fim
+
+
+//utilizando constantes
+Algoritmo area_da_circunferencia_const
+Variáveis
+    raio: inteiro;
+    area: real;
+Constantes
+    pi: real ← 3,14;
+Início
+    escreva("Digite o valor do raio");
+    leia(raio);
+    area ← pi * (raio↑ 2);
+    escreva("O valor calculado para área é ", area);
+Fim

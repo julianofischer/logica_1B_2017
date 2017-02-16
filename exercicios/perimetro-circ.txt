@@ -1,0 +1,26 @@
+//sem utilizar constantes
+Algoritmo perimetro_da_circunferencia
+Variáveis
+    raio: inteiro;
+    area: real;
+Início
+    escreva("Digite o valor do raio");
+    leia(raio);
+    area ← 2 * 3,14 * raio;
+    escreva("O valor calculado para o perímetro é ", area);
+Fim
+
+
+//utilizando constantes
+Algoritmo perimetro_da_circunferencia_const
+Variáveis
+    raio: inteiro;
+    area: real;
+Constantes
+    pi: real ← 3,14;
+Início
+    escreva("Digite o valor do raio");
+    leia(raio);
+    area ← 2 * pi * raio;
+    escreva("O valor calculado para o perímetro é ", area);
+Fim
