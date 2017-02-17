@@ -1,0 +1,31 @@
+//2 soluções a seguir
+
+//Com interatividade com o usuário
+Algoritmo multi_5_1
+Variáveis
+    n1,n2,n3,n4,n5,aux: inteiro;
+Início
+    escreva("Entre com o primeiro número");
+    leia(n1);
+    escreva("Entre com o segundoo número");
+    leia(n2);
+    escreva("Entre com o terceiro número");
+    leia(n3);
+    escreva("Entre com o quarto número");
+    leia(n4);
+    escreva("Entre com o quinto número");
+    leia(n5);
+    aux ← n1 * n2 * n3 * n4 * n5;
+    escreva("O resultado é: ", aux);
+Fim
+
+
+//sem interatividade
+Algoritmo multi_5_2
+Variáveis
+    n1,n2,n3,n4,n5,aux: inteiro;
+Início
+    leia(n1,n2,n3,n4,n5);
+    aux ← n1*n2*n3*n4*n5;
+    escreva(aux);
+Fim

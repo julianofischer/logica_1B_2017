@@ -1,0 +1,13 @@
+Algoritmo area_perimetro_retangulo
+Variáveis
+      base, altura, aux: inteiro;
+Início
+     escreva("Digite a base do retângulo");
+     leia(base);
+     escreva("Digite a altura do retângulo");
+     leia(altura);
+     aux ← base * altura; //calcula a área do retângulo
+     escreva("A área é", aux);
+     aux ← base*2 + altura*2; //calcula o perímetro do retângulo
+     escreva("O perímetro é", aux);
+Fim
