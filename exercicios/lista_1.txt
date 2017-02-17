@@ -1,0 +1,26 @@
+Exemplo 1: Faça um algoritmo para somar 2 números.
+Exemplo 2: Faça um algoritmo para calcular a idade de uma pessoa.
+
+1. Faça um algoritmo para calcular a área de um quadrado.
+
+2. Faça um algoritmo para subtrair 2 números e somar com 5.
+
+3. Faça um algoritmo para mostrar o resultado da multiplicação de 5 números informado pelo usuário
+
+4. Faça um algoritmo que calcule quantos azulejos são necessários para azulejar uma parede. É necessário conhecer a altura e a largura da parede e a altura e largura do azulejo.
+
+5. Faça um programa que, a partir das medidas dos lados de um retângulo, lidos via teclado, calcule a área e o perímetro deste retângulo.
+
+6. Dado o valor do raio (r) de uma circunferência, elaborar um programa para calcular e imprimir sua área (A) e o seu comprimento (C). A fórmula da área do círculo é A=pi r 2 e do comprimento é C=2pi r.
+
+7. Elaborar um programa para calcular e imprimir o volume (V) de uma esfera e a área (A) de sua superfície, dado o valor de seu raio (R). A fórmula do volume da esfera é V=4/3 pi R
+
+8. Faça um algoritmo que leia a distância percorrida (em km) e o tempo que um piloto levou para percorrê-la (em horas). O programa deve calcular a velocidade média (distância/tempo) e exibi-la.
+
+9. A condição física de uma pessoa pode ser medida com base no cálculo do IMC, Índice de Massa Corporal, o qual é calculado dividindo-se a massa da pessoa (m em kg) pela altura da mesma (h em m) elevada ao quadrado (IMC= m/h²). Escreva um programa que leia a massa e a altura de uma pessoa, calcule e mostre o IMC.
+
+10. Faça um programa para calcular a média final de um aluno, supondo-se que há quatro notas bimestrais durante o ano e que esta é calculada através de uma média aritmética simples (todos os bimestres têm o mesmo peso).
+
+11. Elaborar um programa para receber valores, via teclado, nas variáveis "a" e "b". Após isto, o programa, utilizando-se de uma 3a. variável "c", deverá trocar o conteúdo das variáveis "a" e "b".
+
+12. Elaborar um programa que receba, via teclado, os valores do espaço percorrido e do tempo gasto por um veículo em movimento, para calcular e apresentar em tela sua velocidade média.
